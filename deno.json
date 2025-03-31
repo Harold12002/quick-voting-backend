@@ -1,0 +1,7 @@
+{
+    "imports": {
+      "@felix/argon2": "jsr:@felix/argon2@^2.0.2",
+      "@nest/oak": "jsr:@nest/oak@^0.0.3"
+    }
+  }
+  
